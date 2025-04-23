@@ -9,7 +9,7 @@ A simple web app to convert temperatures between **Celsius**, **Fahrenheit**, an
 
 ### 🌐 Deployed Project
 
-You can view the live version of the project here: [Temperature Converter](https://shubhamshuklax.github.io/Weight-Converter/)
+You can view the live version of the project here: [Temperature Converter](https://shubhamshuklax.github.io/Temperature-Converter/)
 
 ### 📁 Files
 
